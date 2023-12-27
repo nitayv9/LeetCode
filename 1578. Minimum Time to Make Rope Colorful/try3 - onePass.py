@@ -1,4 +1,4 @@
-#fact - when we have same color baloon sequence, all must be reomove but one. we need to choose the maximum to remain.
+g#fact - when we have same color baloon sequence, all must be reomove but one. we need to choose the maximum to remain.
 #Time = O(n)
 #Space = O(1)
 def minCost(colors, neededTime):
