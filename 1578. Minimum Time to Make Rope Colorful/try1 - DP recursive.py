@@ -1,7 +1,7 @@
 from functools import lru_cache
 
 # Try one. not good enough. calculate j everytime might be too expensive. make it O(n^2) worst case.
-
+#https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/
 
 def minCost(colors, neededTime):
 

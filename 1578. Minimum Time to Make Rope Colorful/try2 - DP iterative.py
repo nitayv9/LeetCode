@@ -1,5 +1,7 @@
 
 #This is the same solution as try1 but iterative and calcultig all the j's in the begging using two arrays. continutesColors and times.
+#https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/
+
 # Time complexity - O(n)
 # space Complexity = O(n)
 # n = len(color) = len(neededTime)

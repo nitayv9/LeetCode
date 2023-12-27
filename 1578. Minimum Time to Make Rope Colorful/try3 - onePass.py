@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/
+
 #fact - when we have same color baloon sequence, all must be reomove but one. we need to choose the maximum to remain.
 #Time = O(n)
 #Space = O(1)
