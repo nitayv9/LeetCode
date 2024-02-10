@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/palindromic-substrings/
 #DP
 #let the dp[i][j] : the substring starts at i index and ends at j is palindrome
 #so dp[i][j] = 1 iff s[i]=s[j] and dp[i+1][j-1] is 1 (palindrome)
